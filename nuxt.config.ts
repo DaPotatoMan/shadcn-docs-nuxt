@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   modules: [
     'shadcn-nuxt',
     '@vueuse/nuxt',
-    '@ztl-uwu/nuxt-content',
+    '@nuxt/content',
     '@nuxt/image',
     '@nuxt/icon',
     '@nuxtjs/color-mode',
